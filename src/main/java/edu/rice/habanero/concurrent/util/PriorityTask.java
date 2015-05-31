@@ -7,6 +7,7 @@ import java.util.concurrent.TimeoutException;
 
 /**
  * @author <a href="http://shams.web.rice.edu/">Shams Imam</a> (shams@rice.edu)
+ * @author Vivek Sarkar
  */
 public final class PriorityTask<T> implements Comparable<PriorityTask>, RunnableFuture<T> {
 

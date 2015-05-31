@@ -4,6 +4,7 @@ import edu.rice.habanero.concurrent.executors.TaskExecutor;
 
 /**
  * @author <a href="http://shams.web.rice.edu/">Shams Imam</a> (shams@rice.edu)
+ * @author Vivek Sarkar
  */
 public class TaskExecutorUtil {
 

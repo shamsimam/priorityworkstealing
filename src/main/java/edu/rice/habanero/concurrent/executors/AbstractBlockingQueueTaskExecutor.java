@@ -7,6 +7,7 @@ import java.util.concurrent.*;
 
 /**
  * @author <a href="http://shams.web.rice.edu/">Shams Imam</a> (shams@rice.edu)
+ * @author Vivek Sarkar
  */
 public abstract class AbstractBlockingQueueTaskExecutor implements TaskExecutor {
 

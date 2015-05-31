@@ -9,6 +9,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * @author <a href="http://shams.web.rice.edu/">Shams Imam</a> (shams@rice.edu)
+ * @author Vivek Sarkar
  */
 public class StandardWstTaskExecutor implements TaskExecutor {
 

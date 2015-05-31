@@ -8,6 +8,7 @@ import java.util.Map;
 
 /**
  * @author <a href="http://shams.web.rice.edu/">Shams Imam</a> (shams@rice.edu)
+ * @author Vivek Sarkar
  */
 public abstract class Benchmark {
 
